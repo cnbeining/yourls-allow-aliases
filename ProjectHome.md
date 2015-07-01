@@ -1,0 +1,1 @@
+This plugin allows YOURLS to work with alias hostnames for the server.  This is useful when you change the hostname (domain name) of the server while keeping the old hostname as an alias to allow the old short links to continue to work.
